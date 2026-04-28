@@ -8,8 +8,8 @@
       "name": "specshift",
       "description": "Spec-driven development workflow — every feature produces research, specs, architecture, quality checks, changelogs, and user docs alongside code.",
       "source": {
-        "source": "local",
-        "path": "./"
+        "source": "url",
+        "path": "https://github.com/robinfritze/specshift-plugin.git"
       },
       "policy": {
         "installation": "AVAILABLE",
