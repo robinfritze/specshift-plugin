@@ -1,0 +1,42 @@
+{
+  "name": "specshift",
+  "version": "0.2.5-beta",
+  "description": "Spec-driven development workflow — every feature produces research, specs, architecture, quality checks, changelogs, and user docs alongside code.",
+  "author": {
+    "name": "fritze.dev",
+    "url": "https://github.com/fritze-dev"
+  },
+  "homepage": "https://github.com/fritze-dev/specshift",
+  "repository": "https://github.com/fritze-dev/specshift",
+  "license": "MIT",
+  "keywords": [
+    "spec-driven",
+    "documentation",
+    "workflow",
+    "bdd",
+    "gherkin",
+    "codex"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "SpecShift",
+    "shortDescription": "Spec-driven workflow: research, propose, apply, finalize, review.",
+    "longDescription": "Use SpecShift to guide the agent through a structured change lifecycle: research, proposal, specs, design, preflight checks, tests, tasks, audit, finalization, and PR review. Each change produces traceable artifacts so the why and the how stay with the code.",
+    "developerName": "fritze.dev",
+    "category": "Coding",
+    "capabilities": [
+      "Read",
+      "Edit",
+      "Write",
+      "Bash"
+    ],
+    "websiteURL": "https://github.com/fritze-dev/specshift",
+    "defaultPrompt": [
+      "Initialize SpecShift in this repository.",
+      "Use SpecShift to propose a new change.",
+      "Apply the active SpecShift change."
+    ],
+    "brandColor": "#2563EB",
+    "screenshots": []
+  }
+}
