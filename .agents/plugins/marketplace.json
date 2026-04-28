@@ -9,7 +9,7 @@
       "description": "Spec-driven development workflow — every feature produces research, specs, architecture, quality checks, changelogs, and user docs alongside code.",
       "source": {
         "source": "local",
-        "path": "."
+        "path": "./"
       },
       "policy": {
         "installation": "AVAILABLE",
